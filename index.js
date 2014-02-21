@@ -1,7 +1,6 @@
 'use strict';
 
 var map = require('map-stream');
-var duplexer = require('duplexer');
 var jade = require('jade');
 var templatizer = require('templatizer');
 var beautify = require('templatizer/lib/beautify');
